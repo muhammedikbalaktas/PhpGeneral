@@ -1,0 +1,13 @@
+form{
+    background-color: cadetblue;
+    color:black;
+    text-align: center;
+
+}
+
+#submit{
+
+    color: lightgrey;
+    background-color: black;
+    padding: 10px;
+}
